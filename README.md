@@ -1,5 +1,8 @@
-Entrega de Ayudantía 2 en la asignatura Ingeniería de Software.
+# Entrega de Ayudantía 2
+Ingeniería de Software
 
-Ingeniería Civil Informática.
-Universidad del Bío-Bío.
+Ingeniería Civil Informática
+
+Universidad del Bío-Bío
+
 2026
